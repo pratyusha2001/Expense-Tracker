@@ -1,4 +1,5 @@
-NOTE: Online backend is being used. Functionalities may not work if the API has expired
+NOTE: Online backend is being used. Functionalities may not work if the API has expired.
+
 Website link: https://sad-goodall-735483.netlify.app/
 
 Adding and storing income:
