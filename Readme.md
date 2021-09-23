@@ -11,3 +11,4 @@ Adding and storing expense:
 Dark Mode enabled:
 <img src="https://github.com/pratyusha2001/Expense-Tracker/blob/main/src/dark_mode.jpg"/>
 
+ 
