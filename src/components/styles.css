@@ -1,0 +1,30 @@
+:root {
+    --bg-color: #fff;
+    --text-color: #000;
+  }
+  
+  [data-theme="dark"] {
+    --bg-color: #3F3F3F;
+    --text-color: white;
+  }
+  
+  .App {
+    font-family: sans-serif;
+    text-align: center;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    padding-bottom: 20%;
+  }
+th{
+    color: var(--text-color);
+}
+td{
+    color: var(--text-color);
+}
+input{
+    background-color: var(--bg-color);
+    color:var(--text-color);
+}
+.disp-amt{
+    color: var(--text-color);
+}
